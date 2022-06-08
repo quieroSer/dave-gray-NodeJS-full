@@ -1,0 +1,2 @@
+2022-05-21	18:18:43	8d3b88a2-944d-4bd1-a31c-c0e42886a2e5	TypeError: req.json is not a function
+2022-05-21	18:19:30	00b06e70-4b16-4c9d-bd79-dfed71d02b83	TypeError: req.json is not a function

@@ -1,0 +1,7 @@
+2022-05-22	22:10:07	7fde0659-97bc-4b1d-a6e5-07ab76f830d2	GET	undefined	/employees
+2022-05-22	22:10:26	43a28f6c-aaa5-45e3-a3f6-f3a05e1b6824	POST	undefined	/employees
+2022-05-22	22:11:11	444b5a27-1721-4b14-a14a-4e06eb66eeaf	PUT	undefined	/employees
+2022-05-22	22:11:47	9f9d199c-e9d8-43d1-b36d-3a8f276ea815	DELETE	undefined	/employees
+2022-05-22	22:12:16	38d03909-f9b8-43ce-95e4-c9e81c5447f2	GET	undefined	/employees/1
+2022-05-22	22:12:27	44c8e757-3dbc-4539-82b8-e61fa6484951	GET	undefined	/employees/1
+2022-05-22	22:17:02	09b175a7-b0a4-4ce1-8393-295a7531b45a	GET	undefined	/employees/1

@@ -1,0 +1,2 @@
+2022-05-22	22:12:16	307e97ea-cbcd-4c3e-9985-65615a0a8896	TypeError: res.stauts is not a function
+2022-05-22	22:12:27	4c9a2493-7d9b-494a-8523-14c625ca0ce7	TypeError: res.stauts is not a function
